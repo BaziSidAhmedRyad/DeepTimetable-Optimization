@@ -2,6 +2,10 @@
 
 - This Repository Contains My Solution to DL Based Permutation Flowshop Problem in CSE DataHack Competition.
 
+## Introduction
+
+![Flow Shop Demo](./assets/demo.png)
+
 ## What is this Challenge About?
 
 The Permutation Flow Shop Problem (PFSP) is a classic optimization challenge that has seen various solution approaches over the years, from heuristics to metaheuristics and hyper-heuristics. Despite extensive research, PFSP remains challenging, particularly for large-scale instances with numerous jobs and machines.
